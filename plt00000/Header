@@ -1,0 +1,35 @@
+HyperCLaw-V1.1
+16
+density
+xmom
+ymom
+Temp
+pressure
+Y(H2)
+Y(O2)
+Y(H2O)
+Y(H)
+Y(O)
+Y(OH)
+Y(HO2)
+Y(H2O2)
+Y(N2)
+x_velocity
+y_velocity
+2
+0
+0
+0 0 
+64 1 
+
+((0,0) (4095,63) (0,0)) 
+0 
+0.015625 0.015625 
+0
+0
+0 1 0
+0
+0 64
+0 1
+Level_0/Cell
+1.0e-6
